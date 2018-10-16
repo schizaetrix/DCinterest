@@ -1,0 +1,15 @@
+body nav {
+    display: flex;
+    align-content: center;
+    width: 99.5vw;
+    margin: 2px;
+}
+
+.card-container * {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-buffer {
+    margin-top: 20px;
+}
